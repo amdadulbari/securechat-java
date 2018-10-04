@@ -7,6 +7,14 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="smack-android-4.3.0" level="project" />
+    <orderEntry type="library" name="dnsjava-2.1.8" level="project" />
+    <orderEntry type="library" name="dnsjava-2.1.8" level="project" />
+    <orderEntry type="library" name="minidns-client-0.3.0" level="project" />
+    <orderEntry type="library" name="xmlpull-xpp3-1.1.4c" level="project" />
+    <orderEntry type="library" name="dnsjava-2.1.1" level="project" />
+    <orderEntry type="library" name="jxmpp-core-0.5.0" level="project" />
+    <orderEntry type="library" name="smack-tcp-4.3.0-javadoc" level="project" />
+    <orderEntry type="library" name="apache-httpcomponents-httpclient" level="project" />
   </component>
 </module>
-

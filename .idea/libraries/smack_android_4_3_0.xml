@@ -1,0 +1,81 @@
+<component name="libraryTable">
+  <library name="smack-android-4.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/res/smack-android-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-im-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-legacy-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-omemo-signal-integration-test-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-repl-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-resolver-minidns-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-resolver-dnsjava-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-debug-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-android-extensions-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-integration-test-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-sasl-javax-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-tcp-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-compression-jzlib-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-resolver-javax-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-debug-slf4j-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-core-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-sasl-provided-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-extensions-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-java7-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-experimental-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-omemo-signal-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-jingle-old-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-bosh-4.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-omemo-4.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/res/smack-sasl-provided-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-omemo-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-android-extensions-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-integration-test-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-resolver-dnsjava-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-compression-jzlib-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-im-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-debug-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-jingle-old-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-sasl-javax-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-debug-slf4j-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-experimental-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-omemo-signal-integration-test-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-resolver-javax-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-resolver-minidns-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-legacy-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-tcp-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-omemo-signal-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-extensions-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-core-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-repl-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-bosh-4.3.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-android-4.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/res/smack-experimental-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-sasl-provided-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-resolver-dnsjava-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-debug-slf4j-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-im-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-tcp-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-integration-test-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-compression-jzlib-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-omemo-signal-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-omemo-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-legacy-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-extensions-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-resolver-javax-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-bosh-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-jingle-old-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-debug-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-android-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-android-extensions-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-repl-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-java7-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-core-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-omemo-signal-integration-test-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-sasl-javax-4.3.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/smack-resolver-minidns-4.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

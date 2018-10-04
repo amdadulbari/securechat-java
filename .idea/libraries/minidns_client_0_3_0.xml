@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="minidns-client-0.3.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/res/minidns-client-0.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/minidns-dnssec-0.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/minidns-iterative-resolver-0.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/minidns-core-0.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/minidns-hla-0.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jxmpp-core-0.5.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/res/jxmpp-core-0.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/jxmpp-jid-0.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/res/jxmpp-util-cache-0.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
